@@ -1,5 +1,6 @@
 # 💫 About Us:
-👋 WEBUInet is a software company operating in the technology industry, with a focus on promoting peace and collaboration around the globe. Our mission is to utilize cutting-edge technology to bring people together and facilitate communication and understanding.
+
+
 
 
 ## 🌐 Socials:
